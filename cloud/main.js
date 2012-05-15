@@ -43,12 +43,8 @@ var CACHE_TIME = 30;
 var MARKERS = {
   locations: [
     {
-      lat: '52.245671',
-      lon: '-7.080002'
-    },
-    {
-      lat: '52.257861',
-      lon: '-7.136993'
+      lat: '52.26187',
+      lon: '-7.11447'
     }
   ]
 };
